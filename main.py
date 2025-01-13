@@ -202,5 +202,6 @@ except Exception:
     # so go into setup mode.
     setup_mode()
 
+# what server is starting/
 # Start the web server...
 server.run()
