@@ -117,19 +117,22 @@ def application_mode():
             # first ramp up
             steplength = 1
             for x in range(5):
+                print("for {} in rnage 5".format(x))
                 action(steplength, "Full", 20)
-                utime.sleep(3)
+                utime.sleep(1)
                 action(steplength, "Full", 20)
-                utime.sleep(3)
+                utime.sleep(1)
                 steplength = steplength + 1
             for x in range(124):
+                print("for {} in range 124".format(x))
                 action(6, "Full", 20)
-                utime.sleep(3)
+                utime.sleep(1)
             for x in range(5):
+                print("for {} in range 5".format(x))
                 action(steplength, "Full", 20)
-                utime.sleep(3)
+                utime.sleep(1)
                 action(steplength, "Full", 20)
-                utime.sleep(3)
+                utime.sleep(1)
                 steplength = steplength - 1
         except KeyboardInterrupt:
             print("Interrupted from Keyboard")
