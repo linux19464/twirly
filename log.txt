@@ -1,0 +1,109 @@
+2021-01-01 00:00:43 [info     / 137kB] > GET /ccw_360 (200 OK) [206ms]
+2021-01-01 00:01:23 [debug    / 145kB]   - got ip address
+2021-01-01 00:01:23 [info     / 141kB] > starting web server on port 80
+2021-01-01 00:01:25 [info     / 132kB] > GET /ccw_360 (200 OK) [49ms]
+2021-01-01 00:01:28 [info     / 125kB] > GET /stop (200 OK) [4553ms]
+2021-01-01 00:01:30 [info     / 147kB] > GET /cw_360 (200 OK) [1140ms]
+2021-01-01 00:01:32 [info     / 140kB] > GET /cw_a_bit (200 OK) [2803ms]
+2021-01-01 00:02:04 [error    / 138kB] need more than 0 values to unpack
+2021-01-01 00:00:02 [debug    / 155kB]   - connecting
+2021-01-01 00:00:05 [debug    / 154kB]   - connecting
+2021-01-01 00:00:07 [info     / 150kB] > starting web server on port 80
+2021-01-01 00:00:30 [info     / 131kB] > GET /stop (200 OK) [206ms]
+2021-01-01 00:00:30 [info     / 129kB] > GET /cw_360 (200 OK) [389ms]
+2021-01-01 00:00:30 [info     / 126kB] > GET /cw_360 (200 OK) [330ms]
+2021-01-01 00:00:30 [info     / 140kB] > GET /cw_360 (200 OK) [259ms]
+2021-01-01 00:00:30 [info     / 137kB] > GET /cw_360 (200 OK) [312ms]
+2021-01-01 00:00:30 [info     / 135kB] > GET /cw_360 (200 OK) [378ms]
+2021-01-01 00:00:31 [info     / 114kB] > GET /ccw_360 (200 OK) [348ms]
+2021-01-01 00:00:31 [info     / 112kB] > GET /cw_a_bit (200 OK) [405ms]
+2021-01-01 00:00:31 [info     / 144kB] > GET /cw_360 (200 OK) [469ms]
+2021-01-01 00:00:31 [info     / 142kB] > GET /cw_360 (200 OK) [533ms]
+2021-01-01 00:00:36 [info     / 134kB] > GET /stop (200 OK) [5566ms]
+2021-01-01 00:01:03 [error    / 132kB] need more than 0 values to unpack
+2021-01-01 00:01:45 [info     / 125kB] > GET /cw_360 (200 OK) [222ms]
+2021-01-01 00:02:16 [error    / 123kB] need more than 0 values to unpack
+2021-01-01 00:03:54 [info     / 115kB] > GET /ccw_a_bit (200 OK) [265ms]
+2021-01-01 00:03:55 [info     / 109kB] > GET /cw_a_bit (200 OK) [1430ms]
+2021-01-01 00:04:25 [error    / 150kB] need more than 0 values to unpack
+2021-01-01 00:00:02 [debug    / 155kB]   - connecting
+2021-01-01 00:00:05 [debug    / 154kB]   - connecting
+2021-01-01 00:00:07 [info     / 150kB] > starting web server on port 80
+2021-01-01 00:00:02 [debug    / 155kB]   - connecting
+2021-01-01 00:00:06 [debug    / 154kB]   - connecting
+2021-01-01 00:00:08 [info     / 150kB] > starting web server on port 80
+2021-01-01 00:00:02 [debug    / 155kB]   - connecting
+2021-01-01 00:00:05 [debug    / 154kB]   - connecting
+2021-01-01 00:00:11 [info     / 150kB] > starting web server on port 80
+2021-01-01 00:00:02 [debug    / 155kB]   - connecting
+2021-01-01 00:00:05 [debug    / 154kB]   - connecting
+2021-01-01 00:00:07 [info     / 150kB] > starting web server on port 80
+2021-01-01 02:38:57 [debug    / 145kB]   - got ip address
+2021-01-01 02:38:57 [info     / 141kB] > starting web server on port 80
+2021-01-01 02:39:29 [debug    / 117kB] > parsed template: app_templates/index.html (took 18 ms)
+2021-01-01 02:39:29 [info     / 115kB] > GET / (200 OK) [124ms]
+2021-01-01 02:39:32 [info     / 147kB] > GET /stop (200 OK) [165ms]
+2021-01-01 02:39:35 [info     / 141kB] > GET /ccw_a_bit (200 OK) [3392ms]
+2021-01-01 02:39:40 [info     / 134kB] > GET /cw_a_bit (200 OK) [4849ms]
+2021-01-01 02:39:42 [info     / 113kB] > GET /cw_a_bit (200 OK) [2064ms]
+2021-01-01 02:40:12 [error    / 150kB] need more than 0 values to unpack
+2021-01-01 02:41:35 [debug    / 153kB]   - got ip address
+2021-01-01 02:41:35 [info     / 149kB] > starting web server on port 80
+2021-01-01 02:41:39 [info     / 139kB] > GET /stop (200 OK) [217ms]
+2021-01-01 02:41:41 [info     / 132kB] > GET /ccw_a_bit (200 OK) [2268ms]
+2021-01-01 02:41:48 [info     / 126kB] > GET /cw_a_bit (200 OK) [7180ms]
+2021-01-01 02:42:18 [error    / 124kB] need more than 0 values to unpack
+2021-01-01 02:43:04 [info     / 146kB] > GET /stop (200 OK) [272ms]
+2021-01-01 02:43:35 [error    / 144kB] need more than 0 values to unpack
+2021-01-01 02:43:45 [debug    / 145kB]   - got ip address
+2021-01-01 02:43:45 [info     / 141kB] > starting web server on port 80
+2021-01-01 02:45:28 [info     / 131kB] > GET /stop (200 OK) [117ms]
+2021-01-01 02:45:29 [info     / 125kB] > GET /stop (200 OK) [1428ms]
+2021-01-01 02:45:38 [info     / 150kB] > GET /stop (200 OK) [8697ms]
+2021-01-01 02:45:41 [info     / 144kB] > GET /ccw_a_bit (200 OK) [2776ms]
+2021-01-01 02:45:56 [info     / 137kB] > GET /cw_a_bit (200 OK) [15458ms]
+2021-01-01 02:46:27 [error    / 135kB] need more than 0 values to unpack
+2025-03-20 18:37:04 [debug    / 154kB]   - got ip address
+2025-03-20 18:37:04 [info     / 150kB] > starting web server on port 80
+2025-03-20 18:37:23 [debug    / 126kB] > parsed template: app_templates/index.html (took 21 ms)
+2025-03-20 18:37:23 [info     / 124kB] > GET / (200 OK) [374ms]
+2025-03-20 18:37:24 [info     / 116kB] > GET /favicon.ico (404 Not Found) [153ms]
+2025-03-20 18:37:26 [info     / 149kB] > GET /stop (200 OK) [130ms]
+2025-03-20 18:37:28 [info     / 141kB] > GET /ccw_a_bit (404 Not Found) [101ms]
+2025-03-20 19:39:36 [debug    / 143kB]   - got ip address
+2025-03-20 19:39:36 [info     / 139kB] > starting web server on port 80
+2025-03-20 19:39:49 [info     / 146kB] > GET /stop (200 OK) [129ms]
+2025-03-20 19:39:51 [info     / 140kB] > GET /ccw_a_bit (200 OK) [2269ms]
+2025-03-20 19:39:57 [info     / 133kB] > GET /cw_a_bit (200 OK) [5439ms]
+2025-03-20 19:39:58 [info     / 127kB] > GET /ccw_a_bit (200 OK) [1342ms]
+2025-03-20 19:39:59 [info     / 120kB] > GET /ccw_a_bit (200 OK) [833ms]
+2025-03-20 19:40:30 [error    / 117kB] need more than 0 values to unpack
+2021-01-01 00:00:02 [debug    / 140kB]   - connecting
+2021-01-01 00:00:05 [debug    / 139kB]   - connecting
+2021-01-01 00:00:07 [info     / 154kB] > starting web server on port 80
+2021-01-01 00:00:32 [debug    / 154kB]   - got ip address
+2021-01-01 00:00:32 [info     / 150kB] > starting web server on port 80
+2021-01-01 00:00:37 [info     / 140kB] > GET /stop (200 OK) [109ms]
+2021-01-01 00:00:39 [info     / 134kB] > GET /ccw_a_bit (200 OK) [1754ms]
+2021-01-01 00:01:31 [debug    / 144kB]   - got ip address
+2021-01-01 00:01:31 [info     / 140kB] > starting web server on port 80
+2021-01-01 00:01:34 [info     / 128kB] > GET /stop (200 OK) [96ms]
+2021-01-01 00:01:34 [info     / 147kB] > GET /stop (200 OK) [171ms]
+2021-01-01 00:01:35 [info     / 140kB] > GET /ccw_a_bit (200 OK) [879ms]
+2021-01-01 00:02:06 [error    / 138kB] need more than 0 values to unpack
+2021-01-01 00:07:25 [debug    / 129kB]   - got ip address
+2021-01-01 00:07:25 [info     / 125kB] > starting web server on port 80
+2021-01-01 00:07:59 [debug    / 142kB]   - got ip address
+2021-01-01 00:07:59 [info     / 153kB] > starting web server on port 80
+2021-01-01 00:08:11 [info     / 144kB] > GET /stop (200 OK) [289ms]
+2021-01-01 00:08:13 [info     / 137kB] > GET /stop (200 OK) [2471ms]
+2021-01-01 00:08:14 [info     / 129kB] > GET /stop (200 OK) [625ms]
+2021-01-01 00:08:14 [info     / 122kB] > GET /stop (200 OK) [423ms]
+2021-01-01 00:08:15 [info     / 148kB] > GET /ccw_a_bit (200 OK) [1246ms]
+2021-01-01 00:08:45 [error    / 146kB] need more than 0 values to unpack
+2021-01-01 12:11:00 [debug    / 140kB]   - got ip address
+2021-01-01 12:11:00 [info     / 151kB] > starting web server on port 80
+2021-01-01 12:11:16 [debug    / 127kB] > parsed template: app_templates/index.html (took 17 ms)
+2021-01-01 12:11:16 [info     / 132kB] > GET / (200 OK) [527ms]
+2021-01-01 14:46:39 [debug    / 139kB]   - got ip address
+2021-01-01 14:46:39 [info     / 150kB] > starting web server on port 80

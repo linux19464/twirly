@@ -157,7 +157,7 @@ def application_mode():
 
     server.add_route("/", handler=app_index, methods=["GET"])
     server.add_route("/cw_a_bit", handler=app_cw_nudge, methods=["GET"])
-    server.add_route("/ccw_a_bit", handler=app_ccw_nudge, methods=["GET"])
+    #server.add_route("/ccw_a_bit", handler=app_ccw_nudge, methods=["GET"])
     server.add_route("/ccw_360", handler=app_ccw_360, methods=["GET"])
     server.add_route("/cw_360", handler=app_cw_360, methods=["GET"])
     server.add_route("/timelapse", handler=app_timelapse, methods=["GET"])
